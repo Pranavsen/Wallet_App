@@ -5,9 +5,14 @@ Our Expense Tracker App is a powerful yet user-friendly tool designed to help us
 - Easily add income or expense entries with relevant details like amount, category, and date.
 - Edit or delete existing transactions to keep your records accurate and up to date.
   
+![image alt](https://github.com/Pranavsen/Wallet_App/blob/main/Transactions.PNG?raw=true)
+![image alt](https://github.com/Pranavsen/Wallet_App/blob/main/Category.PNG?raw=true)
+  
 📊 Interactive Dashboard
 - Get a comprehensive overview of your financial activity at a glance.
 - View total income, total expenses, and current balance in real time.
+
+![image alt](https://github.com/Pranavsen/Wallet_App/blob/main/Dashboard.PNG?raw=true)
   
 📈 Visual Insights
 - Analyze your spending habits with dynamic bar graphs that show income vs. expenses over time.
