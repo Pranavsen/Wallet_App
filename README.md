@@ -1,5 +1,4 @@
-Expense Tracker App Overview
-Our Expense Tracker App is a powerful yet user-friendly tool designed to help users take control of their personal finances. Whether you're managing a monthly budget or tracking daily expenses, this app provides a seamless experience with the following key features:
+Wallet App is a user-friendly tool designed to help users take control of their personal finances. Whether you're managing a monthly budget or tracking daily expenses, this app provides a seamless experience with the following key features:
 
 💰 Add & Manage Transactions
 - Easily add income or expense entries with relevant details like amount, category, and date.
